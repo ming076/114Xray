@@ -11,8 +11,17 @@ This repository is the official implementation of AENet and 114Xray dataset. Pap
 2. Inspired by the steps taken by security experts in identifying prohibited items, we propose AENet, which consists of the MASI and EA modules. MASI enhances the network's perception of materials by leveraging information interaction across channel and spatial dimensions. EA utilizes a multi-branch structure to improve the network's foreground perception capability.
 
 ## The 114Xray Dataset
-Data Colletction: Real X-ray scenarios in express delivery and subway security. Focus on common prohibited items to enhance security inspection research.
-Data Annotation: 3 years collecting and annotating data from express delivery and subway stations. 3 months reviewing and optimizing annotations. Multi-step process and human-in-the-loop design ensure high-quality annotations and an efficient workflow.
+<div align=center><img src="Figures/114Xray样图.jpg" width="300" height="200" /></div>
+Fig. 1. Example images of the 114Xray dataset, containing 12 classes of prohibited and non-prohibited items
+
+Table 1. Statistics and Comparison of X-ray benchmarks
+<div align=center><img src="Figures/表1.jpg" width="300" height="200" /></div>
+
+Table 2. Distribution of Categories in the 114Xray dataset
+<div align=center><img src="Figures/表2.jpg" width="300" height="200" /></div>
+
+1. Data Colletction: Real X-ray scenarios in express delivery and subway security. Focus on common prohibited items to enhance security inspection research.
+2. Data Annotation: 3 years collecting and annotating data from express delivery and subway stations. 3 months reviewing and optimizing annotations. Multi-step process and human-in-the-loop design ensure high-quality annotations and an efficient workflow.
 
 ## Citation
 If you find this dataset useful for your research, please cite
