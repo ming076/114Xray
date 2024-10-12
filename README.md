@@ -14,7 +14,8 @@ This repository is the official implementation of AENet and 114Xray dataset. Pap
 <div align=center><img src="Figures/114Xray样图.jpg" width="1059" height="540" /></div>
 Fig. 1. Example images of the 114Xray dataset, containing 12 classes of prohibited and non-prohibited items
 <br/>
-**Table 1. Statistics and Comparison of X-ray benchmarks**
+
+Table 1. Statistics and Comparison of X-ray benchmarks
 <div align=center><img src="Figures/表1.jpg" width="868" height="197" /></div>
 <br/>
 Table 2. Distribution of Categories in the 114Xray dataset
