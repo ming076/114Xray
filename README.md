@@ -17,7 +17,7 @@ Data Annotation: 3 years collecting and annotating data from express delivery an
 ## Citation
 If you find this dataset useful for your research, please cite
 
-    @inproceedings{ming076,
+    @inproceedings{ming076_2024_114Xray,
        title={114Xray: A Large-scale X-ray Security Detection Benchmark and Aware Enhance Network for Real-World Prohibited Item Inspection in Baggage},
        author={Hongxia Gao1, Zhenming Guan, Yaobin Huang, Xiaomeng Li, Hongyu Liao, Bin Huang, Hongzhen Zheng, Runze Lin, Litao Li, Haolin Tang, Guoyuan Lin, and Zhanhong Chen},
        booktitle={The 7th Chinese Conference on Pattern Recognition and Computer Vision PRCV 2024},
@@ -26,8 +26,8 @@ If you find this dataset useful for your research, please cite
     }
 ## License
 
-The images and the corresponding annotations in PIDray Dataset can be used ONLY for academic purposes, NOT for commercial purposes.
+The images and the corresponding annotations in 114Xray Dataset can be used ONLY for academic purposes, NOT for commercial purposes.
 
-Copyright © 2021 Institute of Software Chinese Academy of Sciences, University of Chinese Academy of Sciences
+Copyright © 2024 South China University of Technology, Pazhou Laboratory, Guangzhou InsightinFuture AI Technology Co., Ltd.
 
 All rights reserved.
